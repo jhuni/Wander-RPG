@@ -1,0 +1,35 @@
+Always and Never are unnecessary crap
+Switch is part of the boolean API
+Accumulate, Deaths, Score, and Timer are all rw unsigned ints
+
+Ro unsigned ints:
+Elapsed Time - no args
+Opponents - player as arg
+Kills and Command - player and a unit are args
+Bring - location, player, unit
+
+Highest or Lowest:
+Score, Kills, and Resource, Units, and Units at Location
+
+# Unit Class
+Unit, Player, Location combination...
+RemoveUnit, KillUnit, CreateUnit, GiveUnits
+
+Unit("Player 1", "Terran Marine", "Anywhere") += 5; (createUnit)
+Unit("Player 1", "Terran Marine", "Anywhere") -= 5; (removeUnit)
+Unit("Player 1", "Terran Marine", "Anywhere") -> kill(5);
+Unit("Player 1", "Terran Marine", "Anywhere") -> give("Player 1", 5);
+Unit("Player 1", "Terran Marine", "Anywhere") -> moveTo("Selection Area", 5);
+Unit("Player 1", "Terran Marine", "Anywhere") -> order("Move To", "Selection Area");
+
+Unit("Player 1", "Terran Marine", "Anywhere") -> set({
+	invincibility: true,
+	hp: 50,
+	sp: 5,
+	ep: 10,
+	res: 1000,
+	hangar: 6,
+	doodad: 'enable'
+}, 5);
+
+

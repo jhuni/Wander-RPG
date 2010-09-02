@@ -1,0 +1,25 @@
+lastx
+currentx
+xdiff
+
+if all(lastx, currentx) > 64 {
+	lastx -= 64;
+	currentx -= 64;
+	temp += 64;
+}
+
+One of the two will still be around in the end, and that will determine which one is bigger.
+
+my ($isActive) = vars(1);
+my ($heroX, $lastX, $diffx, $commonX) = vars(255, 255, 255, 255);
+heroX, heroY have just been found
+lastX, lastY are still undef, do something special here
+get commonality between lastX and heroX
+set diffx to either lastx or herox, whichever is larger 
+If diffx == 0, still = true
+If lastx was the one larger, diffx = 0
+diffx += commanality
+heroX, lastX = commanlity;
+
+
+

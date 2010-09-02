@@ -1,0 +1,229 @@
+Unused type 1
+Unused type 2
+Unused Terran Bldg type 1
+Unused Terran Bldg type 2
+Duke Turret type 1
+Duke Turret type 2
+Protoss Unused type 1
+Protoss Unused type 2
+Tank Turret type 1
+Tank Turret type 2
+Alan Schezar (Goliath)
+Alan Turret
+Aldaris (Templar)
+Alexei Stukov (Ghost)
+Arcturus Mengsk (Battlecruiser)
+Artanis (Scout)
+Bengalaas (Jungle)
+Cantina
+Cave
+Cave-in
+Cocoon
+Danimoth (Arbiter)
+Dark Swarm
+Dark Templar (Hero)
+Data Disc
+Devouring One (Zergling)
+Disruption Field
+Duke Turret type 2
+Edmund Duke (Siege Mode)
+Edmund Duke (Siege Tank)
+Fenix (Dragoon)
+Fenix (Zealot)
+Flag
+Floor Gun Trap
+Floor Hatch (UNUSED)
+Floor Missile Trap
+Gantrithor (Carrier)
+Gerard DuGalle (Ghost)
+Goliath Turret
+Gui Montag (Firebat)
+Hunter Killer (Hydralisk)
+Hyperion (Battlecruiser)
+Independent Command Center
+Independent Starport
+Infested Command Center
+Infested Duran
+Infested Kerrigan (Infested Terran)
+Infested Terran
+Ion Cannon
+Jim Raynor (Marine)
+Jim Raynor (Vulture)
+Jump Gate
+Kakaru (Twilight)
+Khalis Crystal
+Khaydarin Crystal
+Khaydarin Crystal Formation
+Kukulza (Guardian)
+Kukulza (Mutalisk)
+Kyadarin Crystal Formation
+Left Pit Door
+Left Upper Level Door
+Left Wall Flame Trap
+Left Wall Missile Trap
+Magellan (Science Vessel)
+Map Revealer
+Matriarch (Queen)
+Mature Crysalis
+Mineral Chunk (Type 1)
+Mineral Chunk (Type 2)
+Mineral Field (Type 1)
+Mineral Field (Type 2)
+Mineral Field (Type 3)
+Mining Platform
+Mojo (Scout)
+Norad II (Battlecruiser)
+Norad II (Crashed Battlecruiser)
+Nuclear Missile
+Overmind Cocoon
+Power Generator
+Protoss Arbiter
+Protoss Arbiter Tribunal
+Protoss Archon
+Protoss Assimilator
+Protoss Beacon
+Protoss Carrier
+Protoss Citadel of Adun
+Protoss Corsair
+Protoss Cybernetics Core
+Protoss Dark Archon
+Protoss Dark Templar
+Protoss Dragoon
+Protoss Flag Beacon
+Protoss Fleet Beacon
+Protoss Forge
+Protoss Gateway
+Protoss High Templar
+Protoss Interceptor
+Protoss Marker
+Protoss Nexus
+Protoss Observatory
+Protoss Observer
+Protoss Photon Cannon
+Protoss Probe
+Protoss Pylon
+Protoss Reaver
+Protoss Robotics Facility
+Protoss Robotics Support Bay
+Protoss Scarab
+Protoss Scout
+Protoss Shield Battery
+Protoss Shuttle
+Protoss Stargate
+Protoss Templar Archives
+Protoss Temple
+Protoss Zealot
+Psi Disrupter
+Psi Emitter
+Ragnasaur (Ash World)
+Raszagal (Dark Templar)
+Rhynadon (Badlands)
+Right Pit Door
+Right Upper Level Door
+Right Wall Flame Trap
+Right Wall Missile Trap
+Ruins
+Samir Duran (Ghost)
+Sarah Kerrigan (Ghost)
+Scanner Sweep
+Scantid (Desert)
+Start Location
+Stasis Cell/Prison
+Tassadar (Templar)
+Tassadar/Zeratul (Archon)
+Terran Academy
+Terran Armory
+Terran Barracks
+Terran Battlecruiser
+Terran Beacon
+Terran Bunker
+Terran Civilian
+Terran Command Center
+Terran Comsat Station
+Terran Control Tower
+Terran Covert Ops
+Terran Dropship
+Terran Engineering Bay
+Terran Factory
+Terran Firebat
+Terran Flag Beacon
+Terran Ghost
+Terran Goliath
+Terran Machine Shop
+Terran Marine
+Terran Marker
+Terran Medic
+Terran Missile Turret
+Terran Nuclear Silo
+Terran Physics Lab
+Terran Refinery
+Terran Science Facility
+Terran Science Vessel
+Terran SCV
+Terran Siege Tank (Siege Mode)
+Terran Siege Tank (Tank Mode)
+Terran Starport
+Terran Supply Depot
+Terran Valkyrie
+Terran Vulture
+Terran Wraith
+Tom Kazansky (Wraith)
+Torrasque (Ultralisk)
+Unclean One (Defiler)
+Unused Zerg Bldg
+Unused Zerg Bldg 5
+Uraj Crystal
+Ursadon (Ice World)
+Vespene Geyser
+Vespene Orb (Protoss Type 1)
+Vespene Orb (Protoss Type 2)
+Vespene Sac (Zerg Type 1)
+Vespene Sac (Zerg Type 2)
+Vespene Tank (Terran Type 1)
+Vespene Tank (Terran Type 2)
+Vulture Spider Mine
+Warbringer (Reaver)
+Warp Gate
+Xel'Naga Temple
+Yggdrasill (Overlord)
+Young Chrysalis
+Zeratul (Dark Templar)
+Zerg Beacon
+Zerg Broodling
+Zerg Cerebrate
+Zerg Cerebrate Daggoth
+Zerg Creep Colony
+Zerg Defiler
+Zerg Defiler Mound
+Zerg Devourer
+Zerg Drone
+Zerg Egg
+Zerg Evolution Chamber
+Zerg Extractor
+Zerg Flag Beacon
+Zerg Greater Spire
+Zerg Guardian
+Zerg Hatchery
+Zerg Hive
+Zerg Hydralisk
+Zerg Hydralisk Den
+Zerg Lair
+Zerg Larva
+Zerg Lurker
+Zerg Lurker Egg
+Zerg Marker
+Zerg Mutalisk
+Zerg Nydus Canal
+Zerg Overlord
+Zerg Overmind
+Zerg Overmind (With Shell)
+Zerg Queen
+Zerg Queen's Nest
+Zerg Scourge
+Zerg Spawning Pool
+Zerg Spire
+Zerg Spore Colony
+Zerg Sunken Colony
+Zerg Ultralisk
+Zerg Ultralisk Cavern
+Zerg Zergling

@@ -1,0 +1,22 @@
+
+1. Get unitx and unity
+2. Get movex and movey
+3. Get distx
+
+# unitx + (movex-unitx) = movex
+
+if (unitx > movex) { distx is negative }
+distx = movex - unitx
+
+# You can get which one is bigger by:
+if distx > 128 and disty > 128 subtract 128 from both
+
+# Then whichever which one is still around is the larger one
+if unitx is still around we are looking at a negative, otherwise positive, transfer to distx
+
+4. Transfer unitx, movex, and unity, movey back to their rightful places
+5. Get disty with a similar process
+6. If the sum of the two of them is too big subtract from one of movex or movey, then move the unit back after that
+
+
+Furthermore, I think I should consider utilizing the mission objectives somewhat.

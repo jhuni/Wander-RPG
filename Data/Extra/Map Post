@@ -1,0 +1,24 @@
+Wander RPG vBeta
+
+Menu System:
+This map features a menu system unlike any other you have probably seen, I use burrowed zerglings to display text in the map for most options.
+
+(Start Screen)
+(Other Menus)
+(Battle Menu)
+
+World Map:
+Most RPGs get away with a 256x256 area and that gives you a fairly large area to transverse, on the other hand, this RPG creates all units in the world map via triggers so a far larger area is available. All houses are also created by triggers so get tons of different houses for you to explore as well. Most of the time you will be spending your time in the world map, I would even like to add a mini-game of some sort in one my towns, any ideas?
+
+Battle System
+The battle system supports up to eight units (one for each player that can run triggers), it is most similar to FF8 and FF7 where you have a bunch of units lined up and they take turns fighting against one another. The burrowed zerglings are used for specific hp display.
+
+Many RPGs have potions and a cure spell. This seems redundant to me, not only on the code level but on the gameplay level. This RPG doesn't have any spells, I instead opt for items like grenades for attacks and potions for healing. Furthermore, you don't level up you just buy or find equipment.
+
+This is closer to real life I think, because in real life there is no "leveling up" or "spells" or "wizards." Also it simplifies things for me a bit, because the only thing you are really going to look for is money, so to make the harder difficulty I half the money you get and for easy I double it. This can make hard mode quite hard because you don't get very much money and you need to spend a lot of it on healing.
+
+Download
+Download Wander RPG vBeta
+
+
+

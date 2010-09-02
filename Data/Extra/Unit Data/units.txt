@@ -1,0 +1,54 @@
+Goliath Turret
+Tank Turret(Tank Mode)
+Nuclear Missile
+Alan Schezar Turret
+Edmund Duke Turret
+Edmund Duke Turret
+Tank Turret (Siege Mode)
+Scanner Sweep
+Unused - Cargo Ship
+Unused - Mercenary Gunship
+Map Revealer
+Disruption Web
+Unused1
+Unused2
+Uraj Crystal
+Khalis Crystal
+Unused Zerg Building1
+Unused Zerg Building2
+Unused Protoss Building1
+Unused Protoss Building2
+Khaydarin Crystal Formation
+Mineral Field (Type 1)
+Mineral Field (Type 2)
+Mineral Field (Type 3)
+Cave
+Cave-in
+Cantina
+Mining Platform
+Independant Command Center
+Independant Starport
+Independant Jump Gate
+Ruins
+Kyadarin Crystal Formation
+Vespene Geyser
+Zerg Marker
+Terran Marker
+Protoss Marker
+Zerg Beacon
+Terran Beacon
+Protoss Beacon
+Zerg Flag Beacon
+Terran Flag Beacon
+Protoss Flag Beacon
+Dark Swarm
+Floor Hatch
+Left Upper Level Door
+Right Upper Level Door
+Left Pit Door
+Right Pit Door
+Start Location
+Flag
+Psi Emitter
+Data Disc
+Khaydarin Crystal

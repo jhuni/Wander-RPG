@@ -1,0 +1,18 @@
+***Crucially important
+Make it so that you don't build houses more then once.
+	- I don't know why this happens
+	
+Make it so that you can leave houses.
+	- When the leave event is called,
+	- Remove the current house
+	- Move the marine back to the world
+
+
+***Not necessarily that important:
+Place the marine on the opposite end of map, even if it isn't accurate for now.
+	- Do it without pointer, just using static data for now
+	
+Make it so that you can have junkyard dog in towns
+	- Make a switch called unitCreated and use the psi emmiter trick for each player.
+
+Deal with the issue of vision after moving to a new town.
